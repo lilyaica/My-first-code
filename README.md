@@ -1,2 +1,2 @@
 # My-first-code
-My first mini-projects in Python:
+My first mini-projects in Python: Password Generator, Magic Ball, Guessing Numbers...
